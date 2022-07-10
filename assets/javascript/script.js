@@ -20,6 +20,9 @@ function getCEP (cep) {
             document.querySelector('#input-bairro').value = dadosJsonObj.bairro;
             document.querySelector('#input-estado').value = dadosJsonObj.localidade;
             document.querySelector('#input-uf').value = dadosJsonObj.uf;
+            document.querySelector('#input-complemento').value = dadosJsonObj.complemento;
+            document.querySelector('#input-ibge').value = dadosJsonObj.ibge;
+            document.querySelector('#input-ddd').value = dadosJsonObj.ddd;
         }
     }
     xmlHttp.send();
