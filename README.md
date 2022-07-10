@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/images/qrcode.png" width="100px">
   <h1>Pesquisando endereço pelo CEP</h1>
 </div>
 <div>
