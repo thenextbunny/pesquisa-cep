@@ -13,8 +13,11 @@
   <h3>Linguagens e frameworks utilizados</h3>
   <ul>
     <li>Bootstrap (versão 5.1.3)</li>
-    <li>CSS3</li>
-    <li>HTML5</li>
+    <li>CSS</li>
+    <li>HTML</li>
     <li>JavaScript</li>
   </ul>
+  
+  <h3>Imagem</h3>
+  <img src="https://user-images.githubusercontent.com/99208505/180581367-bda516a8-6410-42fb-b306-3e7265cdd51c.png" alt="Screenshot da página do Pesquisa CEP">
 </div>
